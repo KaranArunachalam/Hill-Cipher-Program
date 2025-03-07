@@ -119,14 +119,5 @@ int main() {
 ## OUTPUT:
 ![image](https://github.com/user-attachments/assets/affd6da5-f1c9-46ec-a283-434e0dfd9fee)
 
-
-
-Input Message : SecurityLaboratory
-
-Padded Message : SECURITYLABORATORY 
-
-Encrypted Message : EACSDKLCAEFQDUKSXU
-
-Decrypted Message : SECURITYLABORATORY
 ## RESULT:
 The program is executed successfully
